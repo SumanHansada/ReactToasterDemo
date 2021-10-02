@@ -181,9 +181,15 @@ const App = () => {
         </div>
         <br />
         <p>
-          To checkout the Toaster built with Blazor{" "}
+          To Checkout the Toaster built with Blazor{" "}
           <a href="https://sumanhansada.github.io/BlazorToasterDemo/">
             Click Here!
+          </a>
+        </p>
+        <p>
+          GitHub Link -{" "}
+          <a href="https://github.com/SumanHansada/ReactToasterDemo">
+            React Toaster Demo
           </a>
         </p>
       </div>
