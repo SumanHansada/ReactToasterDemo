@@ -179,6 +179,13 @@ const App = () => {
             <option value="bottom-right">Bottom Right</option>
           </select>
         </div>
+        <br />
+        <p>
+          To checkout the Toaster built with Blazor{" "}
+          <a href="https://sumanhansada.github.io/BlazorToasterDemo/">
+            Click Here!
+          </a>
+        </p>
       </div>
 
       <Toaster toasts={toasts} position={position} deleteToast={deleteToast} />
