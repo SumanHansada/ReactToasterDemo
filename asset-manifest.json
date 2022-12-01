@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactToasterDemo/static/css/main.517657a9.chunk.css",
-    "main.js": "/ReactToasterDemo/static/js/main.d09677a1.chunk.js",
-    "main.js.map": "/ReactToasterDemo/static/js/main.d09677a1.chunk.js.map",
+    "main.js": "/ReactToasterDemo/static/js/main.6ee65184.chunk.js",
+    "main.js.map": "/ReactToasterDemo/static/js/main.6ee65184.chunk.js.map",
     "runtime-main.js": "/ReactToasterDemo/static/js/runtime-main.86007348.js",
     "runtime-main.js.map": "/ReactToasterDemo/static/js/runtime-main.86007348.js.map",
     "static/css/2.f2512455.chunk.css": "/ReactToasterDemo/static/css/2.f2512455.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.f2512455.chunk.css",
     "static/js/2.da4c7bf3.chunk.js",
     "static/css/main.517657a9.chunk.css",
-    "static/js/main.d09677a1.chunk.js"
+    "static/js/main.6ee65184.chunk.js"
   ]
 }
