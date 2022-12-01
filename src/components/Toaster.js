@@ -7,6 +7,7 @@ const Toaster = (props) => {
 
   return (
     <>
+      <div>Hello</div>
       <div className={`notification-container ${position}`}>
         {toasts.map((toast, i) => (
           <div
